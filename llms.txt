@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي مرتاح
+> في عيونك سر الأفراح
+> كل ليلي معاك نور
+> حبك في روحي بيساح
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
