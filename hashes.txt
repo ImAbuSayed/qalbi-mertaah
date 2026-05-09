@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Qalbi Mertaah
+
+This log tracks the cryptographic history and versioning for the song **Qalbi Mertaah** (qalbi-mertaah).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T06:49:29.895158 | `v1` | `279e7832c84d21351f017408b14b18a6bb6cef08e3373ea41787af3da5d910c4` | `edaf2bbf2ab4f3edcd2a2b729a901cd55ee5e004c2067a7e169b61e7fe066630` | `2026-05-09_qalbi-mertaah-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
